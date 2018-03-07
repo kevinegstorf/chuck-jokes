@@ -1,0 +1,14 @@
+li {
+  list-style: none;
+  padding: 10px;
+  text-align: left;
+  background: indianred;
+  border-radius: 9px;
+  margin-bottom: 5px;
+  /* float: left; */
+}
+
+button {
+  margin: 22px auto;
+  display: block;
+}
